@@ -1,8 +1,6 @@
 <h3> &nbsp;👩🏾‍💻 About Me </h3>
 
-I am a knowledge manager currently studying Software development. I graduated with a Bachelor's degree in Information Science from The Technical University of Kenya  💃 and I'm currently collaborating with an amazing team at Moringa School ,working as a Technical Mentor hoping to change the world 🦸‍.
-
-
+I am highly resourceful, innovative and competent full stack web developer majorly on python Django, flask and angular. I build amazing software solutions.
 
 #### Profile Visits 
 
@@ -15,8 +13,6 @@ I am a knowledge manager currently studying Software development. I graduated wi
 
 <h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3><br>
 
-<p align="center">
-</p>
 
 
 
